@@ -1,0 +1,5 @@
+List down suitable provider name for the below scenario
+
+There is an application which provides esignature as a solution by consuming the providers like Docaposte, Docusign. In specific to Docusign, currently it is been deployed as iframes.
+
+There is a new requirement to consume the same Docusign but by api, (no iframes) and use the current application's ui to interact and achieve the functionality. Hence, what could be the name of the provider for this kind of DOCUSIGN for users to easily grasp and crisp.
